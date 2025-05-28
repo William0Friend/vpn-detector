@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+ip2proxy
+maxminddb-geolite2
+redis
+python-dotenv
+ipwhois
